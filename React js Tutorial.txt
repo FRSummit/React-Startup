@@ -12,7 +12,10 @@ React js
 Install Router dom
 >> npm install --save react-router-dom
 
-
+=================================================
+If npm version problem
+>> npm cache clean --force
+>> npm update
 
 =================================================
 
